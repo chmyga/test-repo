@@ -1,0 +1,3 @@
+Adding some file to newBranch
+
+Editing file

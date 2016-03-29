@@ -1,3 +1,6 @@
 Testing branches
 
 Editing branch test file, to check merging capabilities.
+
+Line to test merge of branch to master.
+
